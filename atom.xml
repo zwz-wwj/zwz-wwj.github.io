@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zwz-wwj/zwz-wwj.github.io</id>
     <title>Gridea</title>
-    <updated>2021-04-12T07:30:21.266Z</updated>
+    <updated>2021-04-12T13:26:40.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zwz-wwj/zwz-wwj.github.io"/>
     <link rel="self" href="https://zwz-wwj/zwz-wwj.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://zwz-wwj/zwz-wwj.github.io/images/avatar.png</logo>
     <icon>https://zwz-wwj/zwz-wwj.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[开始第一篇文章]]></title>
+        <id>https://zwz-wwj/zwz-wwj.github.io/post/kai-shi-di-yi-pian-wen-zhang/</id>
+        <link href="https://zwz-wwj/zwz-wwj.github.io/post/kai-shi-di-yi-pian-wen-zhang/">
+        </link>
+        <updated>2021-04-12T13:23:15.000Z</updated>
+        <content type="html"><![CDATA[<p>一个机缘巧合下，我碰到了blog。我认为blog是一个非常好用的东西，可以自由自在的写东西，没那么多规则。<br>
+这只是个测试Blog。<img src="https://zwz-wwj/zwz-wwj.github.io/post-images/1618233976673.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://zwz-wwj/zwz-wwj.github.io/post/hello-gridea/</id>
